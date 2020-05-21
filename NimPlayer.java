@@ -1,7 +1,5 @@
 /*
- * This code is part of assignment 3 for Programming and Software Development COMP90041
- * As part of the University of Melbourne. May 2020
- * Written by Rodrigo Naves Vargas Student ID: 1092880
+ * Written by Rodrigo Naves Vargas
  */
 
 import java.io.Serializable;
